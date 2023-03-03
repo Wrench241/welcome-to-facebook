@@ -25,7 +25,5 @@ public class CAD {
    public String aluno(){
     return this.nome;
    }
-   public void getNome(String nome){
-    this.dadosA[1];
-   }
+   
 }
